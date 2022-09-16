@@ -1,9 +1,9 @@
  
-/* Name Of the Candidate: L. Ashok
-   Roll No: 204G1A0501
+/* Name Of the Candidate: M.L.R SAI MANJEERA
+   Roll No: 204G1A0587
    Title of the Experiment: CPU Scheduling Using FCFS Algorithm
-   Date of Creation: 29-08-2022
-   Date of Execution: 29-08-2022
+   Date of Creation: 16-09-2022
+   Date of Execution: 16-09-2022
 */
 
 #include<stdio.h>
